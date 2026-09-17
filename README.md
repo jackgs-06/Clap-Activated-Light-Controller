@@ -30,8 +30,8 @@ While simple in concept, the project required multiple rounds of prototyping, de
     - LED
      
     The objective was to verify that a sound signal could be detected and used to control an output device.
-    ## Photos
-    ![Setup photo](images/first_concept_circuit_LED.jpg)
+
+![Setup photo](images/first_concept_circuit_LED.jpg)
 ********************************************************************************************
 ## Relay Addition-
     After successfully detecting sound, a relay module was introduced to allow the microcontroller to control a higher-power load.
@@ -43,13 +43,13 @@ While simple in concept, the project required multiple rounds of prototyping, de
     - Dedicated external power supply
 
     The relay was controlled by the microcontroller, which received its trigger signal from the microphone sensor.
-    ## Photos
-    ![Setup photo](images/relay_testing.jpg)
+    
+![Setup photo](images/relay_testing.jpg)
 ********************************************************************************************
 ## Container Solidworks Model-
     To create a permanent installation, a custom enclosure was designed in SolidWorks. The enclosure provided mounting space for the electronics while also allowing access for wiring, power connections, and the microphone module.
-    ## Photos
-    ![Setup photo](images/solidworks_container.png)
+    
+![Setup photo](images/solidworks_container.png)
 
 ********************************************************************************************
 ## Final Design and Implementation-
@@ -62,10 +62,11 @@ While simple in concept, the project required multiple rounds of prototyping, de
     - More than sufficient processing capability for the application
 
     The completed system is permanently installed and controls room lighting through clap detection.
-    ## Videos
-    [Watch demo](videos/final_implementation.mp4)
-    |
-    https://youtube.com/shorts/3NayaX7WIjI?feature=share
+
+# Demonstration Video
+[Watch demo](videos/final_implementation.mp4)
+|
+https://youtube.com/shorts/3NayaX7WIjI?feature=share
 
 ## Technical Specifications
 
