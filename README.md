@@ -23,3 +23,4 @@ Final Design and Implementation-
     I decided to swap out the Arduino Uno R3 for an Esp32-C3 Supermini. The form factor is much smaller and there is no reason to use the Arduino, with as many features as it has, in this simple of a build.
     ## Videos
     [Watch demo](videos/final_implementation.mp4)
+    https://youtube.com/shorts/3NayaX7WIjI?feature=share
