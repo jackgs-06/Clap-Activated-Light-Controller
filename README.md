@@ -1,1 +1,2 @@
 "# Clap-Activated-Light-Controller" 
+This build was based off of the Arduino UNO R3 microcontroller. As such it is very basic and does not use any kind of custom PCB or super complicated parts. There are 4 main components to the build: Microcontroller, Power supply, Microphone, and Relay.
