@@ -3,6 +3,8 @@ This build was based off of the Arduino UNO R3 microcontroller. As such it is ve
 
 The project went through several waves of development. Starting with basic concept testing, then moving to prototyping the code and hardware, and finally buttoning the device up and installing it permenantly.
 
+The libraries needed to run the sketch should be included with the Arduino IDE, but they are listed aswell: Serial(), millis(), digitalRead(), digitalWrite(), pinMode(), delay(),   HIGH, LOW
+
 ********************************************************************************************
 Concept testing-
     This is the original proof of concept that utilizes an Arduino Uno R3, sound sensor, 9V Battery, and an LED.
